@@ -45,6 +45,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: CK-KZ_KR5i0067_03p001a03}
   - {type: indent, offset: 0, content: 　　, id: KR5i0067_CK-KZ_003-bkkind1}
   - {type: punctuation, offset: 7, content: (, id: KR5i0067_CK-KZ_003-bkkpn1}
+  - {type: voice, offset: 7, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 9, content: ), id: KR5i0067_CK-KZ_003-bkkpn2}
   - {type: indent, offset: 9, content: 　　　, id: KR5i0067_CK-KZ_003-bkkind2}
   - {type: 'kr:newline', offset: 17, content: '
@@ -806,6 +807,7 @@ markers:
   - {type: line-break, offset: 2668, content: '', id: CK-KZ_KR5i0067_03p008b03}
   - {type: indent, offset: 2668, content: 　　, id: KR5i0067_CK-KZ_003-bkkind99}
   - {type: punctuation, offset: 2674, content: (, id: KR5i0067_CK-KZ_003-bkkpn3}
+  - {type: voice, offset: 2674, length: 19, name: note, id: n2}
   - {type: punctuation, offset: 2693, content: ), id: KR5i0067_CK-KZ_003-bkkpn4}
   - {type: 'kr:newline', offset: 2693, content: '
 
@@ -2768,6 +2770,7 @@ markers:
       ', id: KR5i0067_CK-KZ_003-bkkkrnewl596}
   - {type: line-break, offset: 9610, content: '', id: CK-KZ_KR5i0067_03p028a04}
   - {type: punctuation, offset: 9624, content: (, id: KR5i0067_CK-KZ_003-bkkpn5}
+  - {type: voice, offset: 9624, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 9626, content: ), id: KR5i0067_CK-KZ_003-bkkpn6}
   - {type: 'kr:newline', offset: 9630, content: '
 
@@ -4362,6 +4365,7 @@ markers:
       ', id: KR5i0067_CK-KZ_003-bkkkrnewl932}
   - {type: line-break, offset: 15627, content: '', id: CK-KZ_KR5i0067_03p043a10}
   - {type: punctuation, offset: 15638, content: (, id: KR5i0067_CK-KZ_003-bkkpn7}
+  - {type: voice, offset: 15638, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 15640, content: ), id: KR5i0067_CK-KZ_003-bkkpn8}
   - {type: 'kr:newline', offset: 15647, content: '
 
@@ -9566,4 +9570,4 @@ markers:
 
       ', id: KR5i0067_CK-KZ_003-bkkkrnewl2061}
   back: []
-hash: sha256:67010fe1a580b1df14fb0c27d65a7df209ae695f29651bf32a3d2374764a2ef7
+hash: sha256:6660af1272cd3924ea0d43ae3288b1f1edd21d676e715124ee9b033ab22dfb01
